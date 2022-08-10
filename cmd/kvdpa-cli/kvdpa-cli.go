@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	vdpa "github.com/k8snetworkplumbingwg/govdpa/pkg/kvdpa"
+	vdpa "github.com/MangoBoost/govdpa/pkg/kvdpa"
 	cli "github.com/urfave/cli/v2"
 )
 
